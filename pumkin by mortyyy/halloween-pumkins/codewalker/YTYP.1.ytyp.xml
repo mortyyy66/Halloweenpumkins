@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-2.2245457" y="-2.933975" z="-2.2854333" />
+      <bbMax x="2.9368498" y="2.3796613" z="2.3374023" />
+      <bsCentre x="0.35615206" y="-0.27715683" z="0.025984526" />
+      <bsRadius value="4.365929" />
+      <hdTextureDist value="40" />
+      <name>prop_gravestones_09a.model</name>
+      <textureDictionary>prop_gravestones_09a.model</textureDictionary>
+      <physicsDictionary>prop_gravestones_09a.model</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>prop_gravestones_09a.model</assetName>
+    </Item>
+  </archetypes>
+  <name>YTYP.1</name>
+</CMapTypes>
